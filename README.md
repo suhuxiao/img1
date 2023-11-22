@@ -1,4 +1,4 @@
 # imgdalao
-大佬图床
+免费图床
 
-#使用教程：suhu.lol
+#使用教程：www.suhu.lol
